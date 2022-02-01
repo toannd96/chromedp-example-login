@@ -1,1 +1,4 @@
-# chromedp-example-login
+- Run
+```
+go run main.go
+```
